@@ -14,7 +14,7 @@ header:
 footer:
  name: "Hey there, my name is Matt"
  bio: "I am a System Admin and a tech aficionado from California." 
- github: "Want a website like this? Just <a href=\"https://github.com/ramswaroop/photography\">fork it from ramswaroop on github</a> ;)"
+ github: "Want a website like this? Just <a href=\"https://github.com/ramswaroop/photography\">fork it</a> from ramswaroop on github ;)"
 web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/"
